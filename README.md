@@ -11,7 +11,9 @@ Event Notes, Project Stuff, Etc from the Houston Hackathon
   - [Angular Formly](https://github.com/formly-js/angular-formly)
 
 ###Mobile Framework
-- Ionic [Docs](http://ionicframework.com/docs/)
+####Ionic
+- [Main](http://ionicframework.com)
+- [Docs](http://ionicframework.com/docs/)
 
 ###Backend Template
 - [.NET MVC w/Angular Web Template](https://github.com/circuitrider/ohoustondotnet)
